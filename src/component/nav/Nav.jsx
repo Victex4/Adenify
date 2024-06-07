@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom'
 const Nav = () => {
   return (
     <nav className='flex justify-between items-center px-[90px]'>
-        <img src="/logo.svg" alt="" />
+        <img src="images/logo.svg" alt="" />
         <ul className='flex gap-[20px]'>
             <li>
                 <Link to="/">Home</Link>

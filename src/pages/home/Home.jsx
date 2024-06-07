@@ -9,7 +9,7 @@ const Home = () => {
           <button className='bg-red-500 px-[30px] py-[10px] rounded-[50px] text-white hover:bg-gray-500'>Get started</button>
         </div>
         <div>
-          <img src="/illustration-intro.svg" alt="" />
+          <img src="images/illustration-intro.svg" alt="" />
         </div>
       </main>
   )

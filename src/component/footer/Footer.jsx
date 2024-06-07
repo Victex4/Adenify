@@ -7,27 +7,27 @@ const Footer = () => {
         <div className='flex justify-between px-[90px] items-center bg-[#1D1E25] py-[30px] mt-[5.5rem]'>
             <div> 
                 <a href="#">
-                <img src="/logo.svg" alt="" />
+                <img src="images/logo.svg" alt="" />
                 </a>
                 <ul className='flex gap-[10px] py-[20px]'>
                     <li>
                             <a href="#">
-                                <img className='invert-[4]' src="/facebook-circle-fill.png" alt="" />
+                                <img className='invert-[4]' src="images/facebook-circle-fill.png" alt="" />
                             </a>
                     </li>
                     <li>
                         <a href="https://wa.me/+2348065493663" target='_blank'>
-                            <img className='invert-[4]' src="/whatsapp-fill.png" alt="" />
+                            <img className='invert-[4]' src="images/whatsapp-fill.png" alt="" />
                         </a>
                     </li>
                     <li>
                         <a href="#">
-                            <img className='invert-[4]' src="/twitter-x-fill.png" alt="" />
+                            <img className='invert-[4]' src="images/twitter-x-fill.png" alt="" />
                         </a>
                     </li>
                     <li>
                         <a href="#">
-                            <img className='invert-[4]' src="/instagram-fill.png" alt="" />
+                            <img className='invert-[4]' src="images/instagram-fill.png" alt="" />
                         </a>
                     </li>
                 </ul>
